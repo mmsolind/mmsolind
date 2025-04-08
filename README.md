@@ -4,6 +4,8 @@
 Somos a **MMSOLIND**, uma empresa especializada em desenvolvimento de sistemas, automações e soluções digitais sob medida.
 
 🔗 [Visite nosso site](https://www.mmsolind.com/) para conhecer nossos serviços!
+
+🔗 [Visite nosso linkedin](linkedin.com/company/mm-sol) 
 ---
 ## 💻 Sobre nós
 
