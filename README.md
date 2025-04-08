@@ -5,12 +5,13 @@ Somos a **MMSOLIND**, uma empresa especializada em desenvolvimento de sistemas, 
 
 🔗 [Visite nosso site](https://www.mmsolind.com/) para conhecer nossos serviços!
 
-🔗 [Visite nosso linkedin](linkedin.com/company/mm-sol) 
 ---
 ## 💻 Sobre nós
 
 Somos movidos por **tecnologia** e apaixonados por **programação**!  
 Combinamos criatividade, estratégia e código para entregar soluções que **otimizam processos** e **potencializam resultados**.
+
+🔗 [Visite nosso linkedin](linkedin.com/company/mm-sol) 
 
 Aqui no nosso GitHub, você vai encontrar:
 
