@@ -11,8 +11,6 @@ Somos a **MMSOLIND**, uma empresa especializada em desenvolvimento de sistemas, 
 Somos movidos por **tecnologia** e apaixonados por **programação**!  
 Combinamos criatividade, estratégia e código para entregar soluções que **otimizam processos** e **potencializam resultados**.
 
-🔗 [Visite nosso linkedin](linkedin.com/company/mm-sol) 
-
 Aqui no nosso GitHub, você vai encontrar:
 
 - 🧠 Projetos de inovação e pesquisa
@@ -38,7 +36,7 @@ Se você tem uma ideia, projeto ou desafio tecnológico, **conte com a gente!**
 ## 📍 Conecte-se com a MMSILIND
 
 - 🌐 Site: [mmsolind.com](https://www.mmsolind.com/)
-- 💼 LinkedIn: *(adicione o link aqui, se tiver)*
+- 💼 LinkedIn: (linkedin.com/company/mm-sol)
 - 💌 E-mail: contato@mmsolind.com
 ---
 ✨ Obrigado por visitar nosso perfil! Esperamos que encontre algo inspirador por aqui.  
