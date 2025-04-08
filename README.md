@@ -1,7 +1,7 @@
-# 👋 Olá, seja bem-vindo(a) ao GitHub da **MMSILIND**!
+# 👋 Olá, seja bem-vindo(a) ao GitHub da **MMSOLIND**!
 
 🚀 **Inovação, tecnologia e soluções inteligentes** são o nosso combustível!  
-Somos a **MMSILIND**, uma empresa especializada em desenvolvimento de sistemas, automações e soluções digitais sob medida.
+Somos a **MMSOLIND**, uma empresa especializada em desenvolvimento de sistemas, automações e soluções digitais sob medida.
 
 🔗 [Visite nosso site](https://www.mmsolind.com/) para conhecer nossos serviços!
 ---
