@@ -36,7 +36,7 @@ Se você tem uma ideia, projeto ou desafio tecnológico, **conte com a gente!**
 ## 📍 Conecte-se com a MMSILIND
 
 - 🌐 Site: [mmsolind.com](https://www.mmsolind.com/)
-- 💼 LinkedIn: (linkedin.com/company/mm-sol)
+- 💼 LinkedIn: [linkedin](linkedin.com/company/mm-sol)
 - 💌 E-mail: contato@mmsolind.com
 ---
 ✨ Obrigado por visitar nosso perfil! Esperamos que encontre algo inspirador por aqui.  
